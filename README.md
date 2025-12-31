@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Calebe Xavier 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/calebe-xavier-de-medeiros-3513902a2/" target="_blank">
+  <a href="https://www.linkedin.com/in/calebe-x-medeiros-3513902a2/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   <a href="mailto:calebexmz9@gmail.com">
