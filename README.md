@@ -59,7 +59,7 @@ Tenho foco no desenvolvimento de **sistemas de alta performance** e **automaçã
 <br/>
 
 <div align="center">
-  <img src="https://github.com/lLebas/lLebas/raw/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/lLebas/lLebas/raw/output/github-contribution-grid-snake-dark.svg?v=2" />
 </div>
 
 <br/>
