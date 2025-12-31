@@ -4,7 +4,7 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://www.linkedin.com/in/calebe-xavier-de-medeiros-3513902a2/" target="_blank">
+        <a href="https://www.linkedin.com/in/calebe-x-medeiros-3513902a2/" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" />
         </a>
         <br />
