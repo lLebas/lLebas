@@ -56,40 +56,20 @@ Tenho foco no desenvolvimento de **sistemas de alta performance** e **automaçã
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lLebas&theme=tokyonight" alt="lLebas" />
 </div>
 
----
+<br/>
+
+<div align="center">
+  <img src="https://github.com/lLebas/lLebas/raw/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Obrigado+pela+aten%C3%A7%C3%A3o!+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-name: Generate Snake
+---
 
-on:
-  schedule:
-    # roda automaticamente a cada 12 horas
-    - cron: "0 */12 * * *" 
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v2
-
-      - uses: Platane/snk@v3
-        with:
-          # nome do seu usuário github
-          github_user_name: lLebas
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<p align="center">
+  <i>"Sempre construindo, aprendendo e evoluindo."</i> 🚀
+</p>
