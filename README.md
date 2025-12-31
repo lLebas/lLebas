@@ -69,7 +69,3 @@ Tenho foco no desenvolvimento de **sistemas de alta performance** e **automaçã
 </div>
 
 ---
-
-<p align="center">
-  <i>"Sempre construindo, aprendendo e evoluindo."</i> 🚀
-</p>
