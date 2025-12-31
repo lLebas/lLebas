@@ -46,17 +46,10 @@ Tenho foco no desenvolvimento de **sistemas de alta performance** e **automaçã
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/lLebas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lLebas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lLebas&layout=compact&theme=tokyonight"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lLebas&theme=dark&ring=E0234E&fire=E0234E&currStreakNum=E0234E&currStreakLabel=E0234E&sideLabels=ffffff&dates=ffffff&background=0d1117&hide_border=true" alt="lLebas" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lLebas&theme=tokyonight" alt="lLebas" />
-</div>
-
-<br/>
+---
 
 <div align="center">
   <img src="https://github.com/lLebas/lLebas/raw/output/github-contribution-grid-snake-dark.svg?v=2" />
