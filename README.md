@@ -1,16 +1,32 @@
 <h1 align="center">Olá! Eu sou o Calebe Xavier 👋</h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/calebe-xavier-de-medeiros-3513902a2/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0077B5" height="40" alt="linkedin logo" style="margin: 0 10px" />
-  </a>
-  <a href="mailto:calebexmz9@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="gmail logo" style="margin: 0 10px" />
-  </a>
-  <a href="https://www.instagram.com/calebe.xmz" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="instagram logo" style="margin: 0 10px" />
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/calebe-xavier-de-medeiros-3513902a2/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" />
+        </a>
+        <br />
+        <b>LinkedIn</b>
+      </td>
+      <td align="center">
+        <a href="mailto:calebexmz9@gmail.com" target="_blank">
+          <img src="https://cdn.simpleicons.org/gmail/EA4335" height="30" width="30" />
+        </a>
+        <br />
+        <b>Gmail</b>
+      </td>
+      <td align="center">
+        <a href="https://www.instagram.com/calebe.xmz" target="_blank">
+          <img src="https://cdn.simpleicons.org/instagram/E4405F" height="30" width="30" />
+        </a>
+        <br />
+        <b>Instagram</b>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <hr/>
 
@@ -26,7 +42,7 @@ Tenho foco no desenvolvimento de **sistemas de alta performance** e **automaçã
 
 ---
 
-### 🚀 Tech Stack
+### 💻 Tech Stack 
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" style="margin: 0 10px"/>
@@ -46,7 +62,7 @@ Tenho foco no desenvolvimento de **sistemas de alta performance** e **automaçã
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lLebas&theme=dark&ring=E0234E&fire=E0234E&currStreakNum=E0234E&currStreakLabel=E0234E&sideLabels=ffffff&dates=ffffff&background=0d1117&hide_border=true" alt="lLebas" />
+  <img src="https://streak-stats.demolab.com/?user=lLebas&theme=dark" height="160" alt="GitHub Streak" />
 </div>
 
 ---
