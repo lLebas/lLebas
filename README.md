@@ -1,4 +1,4 @@
-## Hi there 👋 abc
+## Hi there 👋
 
 <!--
 **lLebas/lLebas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
