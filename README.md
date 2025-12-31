@@ -21,8 +21,8 @@ Sou um **Desenvolvedor Full Stack** apaixonado por criar soluções que resolvem
 Tenho foco no desenvolvimento de **sistemas de alta performance** e **automação**, com experiência prática na criação de ferramentas para a área jurídica e dashboards governamentais.
 
 * 🔭 Atualmente trabalhando com desenvolvimento de sistemas de automação jurídica.
-* 🌱 Estudando profundamente **NestJS** e **Arquitetura em Nuvem (AWS)**.
-* ⚡ Foco: **React, Next.js, Node.js e Integrações**.
+* 🌱 Estudando profundamente **NestJS**.
+* ⚡ Foco: **TypeScript, Next.js, NestJS , e Integrações**.
 
 ---
 
