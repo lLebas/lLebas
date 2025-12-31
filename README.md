@@ -1,14 +1,14 @@
 <h1 align="center">Olá! Eu sou o Calebe Xavier 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/calebe-x-medeiros-3513902a2/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-  <a href="mailto:calebexmz9@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/calebe-xavier-de-medeiros-3513902a2/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0077B5" height="40" alt="linkedin logo" style="margin: 0 10px" />
+  </a>
+  <a href="mailto:calebexmz9@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="gmail logo" style="margin: 0 10px" />
   </a>
   <a href="https://www.instagram.com/calebe.xmz" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="instagram logo" style="margin: 0 10px" />
   </a>
 </p>
 
