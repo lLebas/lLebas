@@ -34,9 +34,9 @@
 
 Sou um **Desenvolvedor Full Stack** apaixonado por criar soluções que resolvem problemas reais. Atualmente, estou cursando **Ciência da Computação** e possuo graduação em **Análise e Desenvolvimento de Sistemas**.
 
-Tenho foco no desenvolvimento de **sistemas de alta performance** e **automação**, com experiência prática na criação de ferramentas para a área jurídica e dashboards governamentais.
+Tenho foco no desenvolvimento de **sistemas de alta performance** e **automação**, com experiência prática na criação de ferramentas para dashboards. 
 
-* 🔭 Atualmente trabalhando com desenvolvimento de sistemas de automação jurídica.
+* 🔭 Atualmente dev na assessoria alpha.
 * 🌱 Estudando profundamente **NestJS**.
 * ⚡ Foco: **TypeScript, Next.js, NestJS , e Integrações**.
 
